@@ -10,6 +10,7 @@ This static website is prepared for the CSI205TC Networking and Distributed Comp
 - `style.css`: original colours, typography, layout and responsive styles.
 - `main.js`: mobile navigation, project and note dialogs, and public contact configuration.
 - `favicon.svg`: original YM icon.
+- `favicon.ico`: a compatible fallback generated from the same SVG, for browsers that request this conventional path automatically.
 - `.nojekyll`: serve the static files without Jekyll processing.
 
 ## Preview and edit
